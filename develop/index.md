@@ -27,6 +27,6 @@ most benefits from Docker.
 - [Dockerize a .Net Core application](/engine/examples/dotnetcore/){: target="_blank" class="_"}
 - [Dockerize an ASP.NET Core application with SQL Server on Linux](/compose/aspnet-mssql-compose/){: target="_blank" class="_"} using Docker Compose
 
-## Advanced development with the SDK or API
+## Advanced development test with the SDK or API
 
 After you can write Dockerfiles or Compose files and use Docker CLI, take it to the next level by using Docker Engine SDK for Go/Python or use the HTTP API directly.
